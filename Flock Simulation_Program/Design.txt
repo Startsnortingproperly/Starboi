@@ -1,0 +1,29 @@
+The Flock simulation has three packages --
+
+1. drawing
+2. geometry
+3. turtle
+
+--- drawing package ---
+
+It has only 1 class viz. Canvas which is the main class of the project cointing methods and fuctionality for framing the window
+setting up all the objects.
+
+
+--- geomtry package --- 
+
+There are three classes in this package --
+
+1. CartetianCoordinates - Class to represent points on cartetian plane.
+2. LineSegment - Class to represent line segment on the cartedian plane.
+
+--- turtle package ---
+
+There are three classes in this package --
+
+
+1. Driver - Basic methods of 2D vector.
+2. Turtle - This class represents the birds of the flock of Flock Simulation. It contains the method saparation, cohession
+	    and allignment to adjust the birds and keep them moving.
+
+3. Tutles -  Group of turtle.	
